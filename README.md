@@ -45,7 +45,11 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern:
 
 ## 📸 Screenshots
 
-> Add screenshots here (Home, Search, Detail View, Map)
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 25 36" src="https://github.com/user-attachments/assets/9dafda5f-ff05-4810-aec5-584aeb47bba7" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 26 09" src="https://github.com/user-attachments/assets/813ec445-1904-42c7-8dac-b517e0a8148f" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 26 04" src="https://github.com/user-attachments/assets/058bae07-8f03-4186-87af-e961461af80b" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 25 55" src="https://github.com/user-attachments/assets/26f9cd0a-9f96-4c5f-827c-0b113892f820" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 25 49" src="https://github.com/user-attachments/assets/0368d16e-c60a-4a81-96ba-2b23376a73fd" />
 
 ---
 
