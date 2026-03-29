@@ -82,7 +82,7 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern:
 1. Clone the repository
 
 ```bash id="jv9t1p"
-git clone https://github.com/your-username/AirbnbClone-iOS.git
+git clone https://github.com/pranavpatel172000/AirbnbClone-iOS.git
 ```
 
 2. Open in Xcode
